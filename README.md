@@ -2,9 +2,9 @@
 * *oh for the bigger letters i need to put "#"*
 * how tf do i do the nested listings 
   1. simple yet i find hard to do it so much to learn
-     2. YESS
-        - i can go on 
-          * listing go brr
+    2. YESS
+       - i can go on 
+         * listing go brr
 * okay time to back to normal 
           ~~* lets see if i can do that~~
             ~~nested list again~~ 
@@ -27,7 +27,7 @@
          * 2. this ?
            * 3. great i found it
              * 4. i actually made it
-               * ***YESS*** ***okay now i wanna try it without "*" lets see if i can figure it out***
+               * ***YESS*** ***okay now i wanna try it without " * " lets see if i can figure it out***
                  - 5. yeah i dont think if its possible or its because im just a newbie
                    - 6. im actually so glad i made it okay now without the letters
                    - **WHEN DOING WITH IT THE LETTERS(1./2./3.ETC.) I NEED TO LINE THE "*" WITH THE NUMBERS BECAUSE COMPUTER SEES THEM AS A CHARACTER**
@@ -50,7 +50,7 @@
                              - why cant i pass the quotes it only goes back now cuz of the "testing" quote i did ***yikes***
                              - `wait`
                              -     `what`
-                             - ***I DONT KNOW HOW TO USE QUOTING CODE BUT FOR NOWTHATS THE ONLY WAY I FOUND WHEN I MAKE NESTED LISTS AND QUOTING CODE FUCKS IT UP*** (3 * each side)
+                             - ***I DONT KNOW HOW TO USE QUOTING CODE BUT FOR NOW THATS THE ONLY WAY I FOUND WHEN I MAKE NESTED LISTS AND QUOTING CODE FUCKS IT UP*** (3 * each side)
                              - ****1.EITHER DONT QUOTE CODE AT ALL OR IF ITS MUST THEN PRESS SPACE BAR FOUR TIMES <sup> that method will make a square around the text which does not look good but for now thats the only way i could find </sup>**** (4 * each side i think is the same as bold text)
 - **now lets try the actual <sub> ***QUOTING*** </sub> with nested listing**
 > - okay the text and now i wanna do the nested listing
